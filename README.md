@@ -1,85 +1,125 @@
-# 🌸 By Natalia Dev — Portfólio de Sistemas Digitais
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D01117,50:EC4899,100:F9A8D4&height=180&section=header&text=BY%20NATALIA%20DEV&fontSize=34&fontColor=FDF2F8&fontAlignY=35&desc=Sistemas%20digitais%20sob%20medida%20para%20cl%C3%ADnicas&descAlignY=58&descSize=15&descColor=F9A8D4" alt="Banner By Natalia Dev" />
+</p>
 
-> Sistemas web personalizados para clínicas de estética — bonitos, simples e acessíveis.
+<p align="center">
+  <strong>Portfólio de sistemas digitais personalizados para clínicas de estética.</strong>
+</p>
 
-🔗 **[Acessar o site ao vivo](https://taliaalmeida.github.io/by-natalia-dev-ou-portfolio/)**
+<p align="center">
+  <a href="https://taliaalmeida.github.io/by-natalia-dev-ou-portfolio/"><img src="https://img.shields.io/badge/SITE-ONLINE-EC4899?style=for-the-badge&labelColor=0D1117" alt="Site online" /></a>
+  <img src="https://img.shields.io/badge/STATUS-FEATURED-F9A8D4?style=for-the-badge&labelColor=0D1117" alt="Status featured" />
+</p>
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/GitHub%20Pages-0D1117?style=for-the-badge&logo=github&logoColor=F9A8D4" alt="GitHub Pages" />
+</p>
 
-## 💻 Sobre o projeto
+> **01 // POSITIONING**  
+> A By Natalia Dev cria sistemas web bonitos, simples e acessíveis para transformar rotinas manuais de clínicas em experiências digitais mais organizadas.
 
-Página de apresentação profissional da **By Natalia Dev**, com foco em desenvolvimento de sistemas digitais para clínicas de estética. O site apresenta os serviços oferecidos, projetos entregues e planos mensais.
+## 02 // SOBRE O PROJETO
 
----
+Este repositório contém o site institucional e comercial da By Natalia Dev. A página apresenta os serviços oferecidos, o sistema em destaque, os planos mensais e os canais de contato para clínicas interessadas em uma solução sob medida.
 
-## ✨ O que tem no site
+<p align="center">
+  <a href="https://taliaalmeida.github.io/by-natalia-dev-ou-portfolio/"><strong>🌸 Acessar o site ao vivo</strong></a>
+</p>
 
-- **Hero animado** com mockup interativo do sistema
-- **Seção de serviços** — Fechamento de Caixa, Agenda Online e Site Institucional
-- **Projeto em destaque** com link para o sistema real em produção
-- **Tabela de planos mensais** por sistema
-- **CTA direto** para WhatsApp e Instagram
-- **Animações suaves** ao rolar a página
-- **Design 100% responsivo** — funciona no celular e no computador
+## 03 // O QUE O SITE APRESENTA
 
----
+| Seção | Objetivo |
+| --- | --- |
+| **Hero** | Comunica a proposta de sistemas feitos sob medida e direciona para WhatsApp ou projetos. |
+| **Soluções** | Apresenta Fechamento de Caixa, Agenda Online e Site Institucional. |
+| **Projeto em destaque** | Mostra o Sistema de Fechamento de Caixa para Clínica de Estética. |
+| **Planos mensais** | Organiza valores, recursos incluídos e status de cada solução. |
+| **Contato** | Oferece acesso direto ao WhatsApp e Instagram. |
+| **Experiência visual** | Usa animações suaves, mockup de sistema e layout responsivo. |
 
-## 🛠️ Tecnologias utilizadas
+## 04 // INTERFACE
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Google Fonts](https://img.shields.io/badge/Google_Fonts-4285F4?style=flat&logo=google&logoColor=white)
+A captura abaixo mostra a primeira dobra do site publicado: identidade By Natalia Dev, proposta de valor, chamada para WhatsApp e mockup do Caixa da Clínica com indicadores de saldo, atendimentos, entradas, produtos e despesas.
 
-- HTML5, CSS3 e JavaScript puro
-- Fontes: **Playfair Display** + **Jost**
-- Hospedagem: **GitHub Pages** (gratuito)
-- Sem frameworks, sem dependências externas
+<p align="center">
+  <img src="assets/screenshots/by-natalia-dev-portfolio.webp" alt="Hero do portfólio By Natalia Dev" width="920" />
+</p>
 
----
+<p align="center"><sub>Captura real do site publicado no GitHub Pages.</sub></p>
 
-## 📁 Estrutura do repositório
+## 05 // SOLUÇÕES E PLANOS
 
+Os valores abaixo correspondem à oferta exibida na página pública consultada. Atualize esta tabela sempre que os preços ou o status comercial forem alterados no site.
+
+| Solução | Valor publicado | Status |
+| --- | ---: | --- |
+| **Fechamento de Caixa** | R$ 89/mês por clínica | Disponível e em destaque. |
+| **Agenda Online** | R$ 89/mês por clínica | Em breve/lista de espera. |
+| **Site Institucional** | R$ 119/mês por clínica | Disponível mediante orçamento/contratação. |
+
+Cada plano apresenta recursos específicos, como acesso em celular e computador, sincronização entre usuárias, personalização visual, suporte e atualizações.
+
+## 06 // TECNOLOGIAS
+
+| Camada | Tecnologia |
+| --- | --- |
+| Interface | HTML5, CSS3 e JavaScript puro. |
+| Tipografia | Playfair Display e Jost. |
+| Hospedagem | GitHub Pages. |
+| Dependências | Sem frameworks e sem dependências externas declaradas no README. |
+| Comunicação | Links públicos para WhatsApp e Instagram. |
+
+## 07 // COMO EXECUTAR
+
+### Site online
+
+Acesse [taliaalmeida.github.io/by-natalia-dev-ou-portfolio](https://taliaalmeida.github.io/by-natalia-dev-ou-portfolio/).
+
+### Execução local
+
+```bash
+git clone https://github.com/taliaalmeida/by-natalia-dev-ou-portfolio.git
+cd by-natalia-dev-ou-portfolio
+python3 -m http.server 8000
 ```
-by-natalia-dev/
-│
-└── index.html        # Página completa (HTML + CSS + JS em um único arquivo)
-└── README.md         # Este arquivo
+
+Abra [http://localhost:8000](http://localhost:8000) no navegador.
+
+### Publicação no GitHub Pages
+
+No repositório, acesse **Settings → Pages**, escolha a branch `master`, selecione `/ (root)` e salve. O ponto de entrada é o arquivo `index.html`.
+
+## 08 // ESTRUTURA
+
+```text
+by-natalia-dev-ou-portfolio/
+├── index.html    # Página institucional completa
+└── README.md     # Documentação do projeto
 ```
 
----
+## 09 // ROADMAP
 
-## 🚀 Projetos entregues
+| Prioridade | Evolução sugerida |
+| --- | --- |
+| Alta | Adicionar uma seção de estudos de caso com problema, solução, stack e resultado de cada projeto. |
+| Média | Separar HTML, CSS e JavaScript para facilitar manutenção e colaboração. |
+| Média | Adicionar SEO técnico, favicon, metatags Open Graph e analytics com consentimento. |
+| Média | Criar formulário de orçamento com validação e proteção antispam. |
 
-| Projeto | Cliente | Tecnologias | Link |
-|---|---|---|---|
-| Sistema de Fechamento de Caixa | Clínica de Estética | HTML, CSS, JS, Firebase | [Ver ao vivo](https://taliaalmeida.github.io/caixa-clinica/) |
+## 10 // CONTATO
 
----
+- [WhatsApp](https://wa.me/5521970189097)
+- [Instagram](https://www.instagram.com/nataliaalmeidatech)
+- [Perfil no GitHub](https://github.com/taliaalmeida/taliaalmeida)
+- [Site ao vivo](https://taliaalmeida.github.io/by-natalia-dev-ou-portfolio/)
 
-## 📦 Planos disponíveis
+## 11 // AUTORIA
 
-| Sistema | Valor | Status |
-|---|---|---|
-| 💰 Fechamento de Caixa | R$ 89/mês | ✅ Disponível |
-| 📅 Agenda Online | R$ 119/mês | 🚀 Em breve |
-| 💻 Site Institucional | R$ 99/mês | 🚀 Em breve |
+Desenvolvido por **Natalia Almeida — By Natalia Dev**.
 
----
-
-## 📬 Contato
-
-Tem interesse em um sistema para sua clínica?
-
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/5521970189097)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/nataliaalmeidatech)
-
----
-
-## 👩‍💻 Sobre mim
-
-Sou a **Natalia Almeida**, desenvolvedora web em formação, apaixonada por criar soluções digitais que resolvem problemas reais para pequenos negócios. 🌸
-
----
-
-<p align="center">Feito com 🌸 por <strong>Natalia Almeida</strong></p>
+<p align="center">
+  <sub>Learn. Build. Automate. Evolve.</sub>
+</p>
