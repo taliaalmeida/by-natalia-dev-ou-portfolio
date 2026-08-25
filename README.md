@@ -45,7 +45,7 @@ Este repositório contém o site institucional e comercial da By Natalia Dev. A 
 A captura abaixo mostra a primeira dobra do site publicado: identidade By Natalia Dev, proposta de valor, chamada para WhatsApp e mockup do Caixa da Clínica com indicadores de saldo, atendimentos, entradas, produtos e despesas.
 
 <p align="center">
-  <img src="assets/screenshots/by-natalia-dev-portfolio.webp" alt="Hero do portfólio By Natalia Dev" width="920" />
+  <img src="by-natalia-dev-portfolio.webp" />
 </p>
 
 <p align="center"><sub>Captura real do site publicado no GitHub Pages.</sub></p>
